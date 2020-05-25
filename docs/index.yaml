@@ -10,10 +10,10 @@ entries:
     - logrotate
     - kubernetes
     maintainers:
-    - email: stakater@aurorasolutions.io
+    - email: hello@stakater.com
       name: Stakater
     name: logrotate
     urls:
-    - git@github.com:stakater-charts/rancher-charts.git/logrotate-1.0.18.tgz
+    - https://stakater-charts.github.io/rancher-charts/logrotate-1.0.18.tgz
     version: 1.0.18
 generated: "2020-05-20T06:55:45.62763+02:00"
